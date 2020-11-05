@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "리덕스 미들웨어",
+      "body": "리덕스 미들웨어 내용 내용."
+    },
+    {
+      "id": 2,
+      "title": "redux-thunk",
+      "body": "redux-thunk를 사용해서 비동기 작업을 처리해봅시다!"
+    },
+    {
+      "id": 3,
+      "title": "redux-saga",
+      "body": "나중엔 redux-saga를 사용해서 비동기 작업을 처리하는 방법도 배워볼 거예요."
+    }
+  ]
+}
